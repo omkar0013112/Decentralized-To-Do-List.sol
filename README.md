@@ -67,30 +67,6 @@ By building on blockchain technology, we envision a future where productivity to
 - **Reporting Dashboard**: Analytics and productivity insights
 - **API Development**: Enable integration with existing enterprise tools
 
----
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- Hardhat or Truffle development environment
-- MetaMask or similar Web3 wallet
-
-### Installation
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Compile contracts: `npx hardhat compile`
-4. Deploy to local network: `npx hardhat node`
-5. Deploy contract: `npx hardhat run scripts/deploy.js --network localhost`
-
-### Usage
-Interact with the contract using Web3.js, Ethers.js, or through a frontend application.
-
-## Contributing
-We welcome contributions! Please read our contributing guidelines and submit pull requests for any improvements.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Cotract Address: 0xAa7faF39F9D0e234c9b6f1452eA7a254021be92d
 
