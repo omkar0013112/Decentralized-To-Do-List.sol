@@ -1,11 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-/**
- * @title Decentralized To-Do List
- * @dev A blockchain-based task management system
- * @author Your Name
- */
+
 contract Project {
     
     // Task structure
