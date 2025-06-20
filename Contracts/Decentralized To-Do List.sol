@@ -4,7 +4,7 @@ pragma solidity ^0.8.19;
 
 contract Project {
     
-    // Task structure
+    //structure
     struct Task {
         uint256 id;
         string content;
