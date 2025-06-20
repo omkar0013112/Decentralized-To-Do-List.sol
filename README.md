@@ -23,7 +23,7 @@ By building on blockchain technology, we envision a future where productivity to
 - **Data Ownership**: Users maintain complete control over their task data
 - **Immutable Records**: Task creation and completion timestamps are permanently recorded
 - **Transparency**: All operations are visible on the blockchain
-- **Decentralized Storage**: No single point of failure or data loss risk
+- **Decentralized Storage**: No single point of failure or data loss the risk
 
 ### Security Features
 - **User Isolation**: Each user can only access and modify their own tasks
