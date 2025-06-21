@@ -22,10 +22,6 @@ contract Project {
     event TaskCompleted(address indexed user, uint256 taskId);
     event TaskDeleted(address indexed user, uint256 taskId);
     
-    /**
-     * @dev Create a new task
-     * @param _content The task description
-     */
     function createTask(string memory _content) public {
         require(bytes(_content).length > 0, "Task content cannot be empty");
         
