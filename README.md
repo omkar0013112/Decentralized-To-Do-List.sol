@@ -59,7 +59,7 @@ By building on blockchain technology, we envision a future where productivity to
 - **DAO Implementation**: Community governance for feature development
 - **Token Economy**: Introduce utility tokens for premium features
 - **Plugin System**: Allow third-party developers to create extensions
-- **Social Features**: Task sharing, team collaboration, and community challenges
+- **Social Features**: Task sharings, team collaboration, and community challenges
 
 ### Enterprise Solutions
 - **Multi-signature Support**: Team-based task management with multiple approvals
